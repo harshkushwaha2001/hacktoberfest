@@ -2862,4 +2862,15 @@
 - Bio: Hello 👋, I'm Rehan, a final-year software engineering student from Air University.
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
 
+ 
+#### Name: [Vinayak Raj Ranjan](https://github.com/vinayakjaas)
+
+- Place: Patna, Bihar
+- Bio: Hello,I am pre final year Btech student 
+- GitHub: [Vinayak Raj Ranjan](https://github.com/vinayakjaas)
+
+
+
+
+
   
